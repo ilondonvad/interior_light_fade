@@ -12,7 +12,8 @@
 
 :warning:<b>ВАЖНО: использовать транзистор с напряжением отприная 5В или ниже(Gate Threshold Voltage) в данном случае IRL2505</b>:warning:
 #### Активация происходит по низкому уровню на контакте IN
-<img src="https://github.com/user-attachments/assets/435e0dca-9795-4aea-92dc-a0dab87c977b"  height="300">
+![23](https://github.com/user-attachments/assets/ca59c78b-84d3-41d7-a8bb-544bf5248063)
+
 
 
 
